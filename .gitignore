@@ -4,6 +4,7 @@ __pycache__/
 *$py.class
 
 # Environment variables
+.env
 .env.local
 .env.*.local
 
