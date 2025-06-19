@@ -1,0 +1,500 @@
+[
+    {
+        "name": "HDFC Millennia",
+        "issuer": "HDFC Bank",
+        "annual_fee": 1000,
+        "joining_fee": 0,
+        "reward_type": "cashback",
+        "reward_rate": 5.0,
+        "reward_categories": [
+            "online_shopping",
+            "dining"
+        ],
+        "eligibility": {
+            "min_income": 30000,
+            "credit_score": 700
+        },
+        "perks": [
+            "Amazon voucher on joining",
+            "1% fuel surcharge waiver"
+        ],
+        "image_url": "https://www.hdfcbank.com/content/api/contentstream-id/723fb80a-2dde-42a3-9793-7ae1be57c87f/a6470e7a-ddb5-4512-a4a9-d628c97eb24e/Personal/Pay/Cards/Millennia%20Cards/Millennia%20Credit%20Card/Millennia-CC_new.png"
+    },
+    {
+        "name": "HDFC Bank Regalia Credit Card",
+        "issuer": "HDFC Bank",
+        "annual_fee": 2500,
+        "joining_fee": 2500,
+        "reward_type": "Reward Points",
+        "reward_rate": 2.67,
+        "reward_categories": [
+            "travel",
+            "dining",
+            "online_spends"
+        ],
+        "eligibility": {
+            "min_income": 600000,
+            "credit_score": 750
+        },
+        "perks": [
+            "Complimentary airport lounge access - 6 times per year",
+            "Fuel surcharge waiver up to ₹500 per month",
+            "Movie ticket discounts",
+            "Dining privileges at partner restaurants",
+            "Travel insurance coverage"
+        ],
+        "image_url": "https://www.hdfcbank.com/content/api/contentstream-id/723fb80a-2dde-42a3-9793-7ae1be57c87f/cdd80c6c-737c-4251-b0e1-b3ac8af3129a/Personal/Pay/Cards/Credit%20Card/Credit%20Card%20Landing%20Page/Credit%20Cards/Super%20Premium/Regalia%20Gold%20Credit%20Card/RG-Card%20Facia.png"
+    },
+    {
+        "name": "SBI SimplyCLICK Credit Card",
+        "issuer": "State Bank of India",
+        "annual_fee": 499,
+        "joining_fee": 499,
+        "reward_type": "Reward Points",
+        "reward_rate": 10.0,
+        "reward_categories": [
+            "online_spends"
+        ],
+        "eligibility": {
+            "min_income": 200000,
+            "credit_score": 700
+        },
+        "perks": [
+            "10% cashback on online shopping",
+            "Annual fee waiver on spending ₹1 lakh",
+            "BookMyShow vouchers",
+            "Fuel surcharge waiver",
+            "Easy EMI conversion"
+        ],
+        "image_url": "https://thumbor.forbes.com/thumbor/fit-in/125x/https://www.forbes.com/advisor/in/wp-content/uploads/2021/09/simplyclick-card-face-1.png"
+    },
+    {
+        "name": "ICICI Bank Amazon Pay Credit Card",
+        "issuer": "ICICI Bank",
+        "annual_fee": 0,
+        "joining_fee": 0,
+        "reward_type": "Cashback",
+        "reward_rate": 5.0,
+        "reward_categories": [
+            "amazon",
+            "online_spends"
+        ],
+        "eligibility": {
+            "min_income": 300000,
+            "credit_score": 700
+        },
+        "perks": [
+            "5% unlimited cashback on Amazon.in",
+            "2% cashback on other online spends",
+            "No annual fee for lifetime",
+            "Welcome gift voucher",
+            "Easy payment through Amazon Pay"
+        ],
+        "image_url": "https://cd9941cc.delivery.rocketcdn.me/wp-content/uploads/2021/06/Amazon-Pay-ICICI-Bank-Credit-Card-1.webp"
+    },
+    {
+        "name": "Axis Bank Neo Credit Card",
+        "issuer": "Axis Bank",
+        "annual_fee": 0,
+        "joining_fee": 0,
+        "reward_type": "Cashback",
+        "reward_rate": 5.0,
+        "reward_categories": [
+            "digital_payments",
+            "food_delivery"
+        ],
+        "eligibility": {
+            "min_income": 250000,
+            "credit_score": 700
+        },
+        "perks": [
+            "High cashback on digital payments",
+            "Food delivery app benefits",
+            "No annual fee for lifetime",
+            "Instant approval for existing customers",
+            "Digital first approach"
+        ],
+        "image_url": "https://finder.cardmaven.in/wp-content/uploads/2024/02/Axis-Bank-Neo.png"
+    },
+    {
+        "name": "HDFC Bank Millennia Credit Card",
+        "issuer": "HDFC Bank",
+        "annual_fee": 1000,
+        "joining_fee": 1000,
+        "reward_type": "Cashback",
+        "reward_rate": 5.0,
+        "reward_categories": [
+            "online_spends",
+            "UPI"
+        ],
+        "eligibility": {
+            "min_income": 300000,
+            "credit_score": 700
+        },
+        "perks": [
+            "5% cashback on online shopping and bill payments",
+            "2.5% cashback on UPI transactions",
+            "Annual fee waiver on spending ₹1 lakh",
+            "PayZapp wallet benefits",
+            "SmartEMI facility"
+        ],
+        "image_url": "https://v.hdfcbank.com/content/dam/hdfc-aem-microsites/htdocs/common/credit-cards/calculators/images/cards/Millennia.png"
+    },
+    {
+        "name": "Kotak 811 #DreamDifferent Credit Card",
+        "issuer": "Kotak Mahindra Bank",
+        "annual_fee": 500,
+        "joining_fee": 500,
+        "reward_type": "Reward Points",
+        "reward_rate": 4.0,
+        "reward_categories": [
+            "online_spends"
+        ],
+        "eligibility": {
+            "min_income": 250000,
+            "credit_score": 700
+        },
+        "perks": [
+            "Higher rewards on online shopping",
+            "Book My Show offers",
+            "Fuel surcharge waiver",
+            "Annual fee waiver on spending ₹50,000",
+            "Easy application process"
+        ],
+        "image_url": "https://cd9941cc.delivery.rocketcdn.me/wp-content/uploads/2021/07/Kotak-811-DreamDifferent-Credit-Card.webp"
+    },
+    {
+        "name": "YES Bank Prosperity Rewards Plus Credit Card",
+        "issuer": "YES Bank",
+        "annual_fee": 2000,
+        "joining_fee": 2000,
+        "reward_type": "Reward Points",
+        "reward_rate": 6.0,
+        "reward_categories": [
+            "dining",
+            "fuel"
+        ],
+        "eligibility": {
+            "min_income": 500000,
+            "credit_score": 750
+        },
+        "perks": [
+            "High rewards on dining and fuel",
+            "Airport lounge access - 4 times per year",
+            "Golf privileges",
+            "Annual fee waiver on spending ₹2 lakh",
+            "Concierge services"
+        ],
+        "image_url": "https://applycc.yesbank.in/creditCardTemplates/images/Yes%20Prosperity%20Rewards%20Plus.png"
+    },
+    {
+        "name": "IndusInd Bank Pinnacle Credit Card",
+        "issuer": "IndusInd Bank",
+        "annual_fee": 3000,
+        "joining_fee": 3000,
+        "reward_type": "Reward Points",
+        "reward_rate": 3.0,
+        "reward_categories": [
+            "all_spends"
+        ],
+        "eligibility": {
+            "min_income": 600000,
+            "credit_score": 750
+        },
+        "perks": [
+            "Comprehensive reward points program",
+            "Airport lounge access - 8 times per year",
+            "Golf privileges at premium courses",
+            "Movie ticket offers",
+            "Travel insurance coverage",
+            "Concierge services"
+        ],
+        "image_url": "https://cd9941cc.delivery.rocketcdn.me/wp-content/uploads/2021/07/IndusInd-Bank-Pinnacle-World-Credit-Card.webp"
+    },
+    {
+        "name": "IDFC FIRST Millennia Credit Card",
+        "issuer": "IDFC FIRST Bank",
+        "annual_fee": 500,
+        "joining_fee": 500,
+        "reward_type": "Reward Points",
+        "reward_rate": 6.0,
+        "reward_categories": [
+            "online_spends",
+            "UPI"
+        ],
+        "eligibility": {
+            "min_income": 250000,
+            "credit_score": 700
+        },
+        "perks": [
+            "High rewards on online shopping",
+            "UPI transaction benefits",
+            "Annual fee waiver on spending ₹60,000",
+            "Movie and dining offers",
+            "Fuel surcharge waiver"
+        ],
+        "image_url": "https://cd9941cc.delivery.rocketcdn.me/wp-content/uploads/2021/07/IDFC-FIRST-Millennia-Credit-Card.webp"
+    },
+    {
+        "name": "Standard Chartered Super Value Titanium Credit Card",
+        "issuer": "Standard Chartered",
+        "annual_fee": 750,
+        "joining_fee": 750,
+        "reward_type": "Cashback",
+        "reward_rate": 5.0,
+        "reward_categories": [
+            "grocery",
+            "fuel",
+            "utility"
+        ],
+        "eligibility": {
+            "min_income": 300000,
+            "credit_score": 700
+        },
+        "perks": [
+            "High cashback on essential categories",
+            "Fuel surcharge waiver",
+            "Utility bill payment benefits",
+            "Annual fee waiver on spending ₹75,000",
+            "Emergency card replacement"
+        ],
+        "image_url": "https://cd9941cc.delivery.rocketcdn.me/wp-content/uploads/2021/07/Standard-Chartered-Super-Value-Titanium-Credit-Card.webp"
+    },
+    {
+        "name": "American Express Smart Earn Credit Card",
+        "issuer": "American Express",
+        "annual_fee": 995,
+        "joining_fee": 995,
+        "reward_type": "Membership Rewards Points",
+        "reward_rate": 2.0,
+        "reward_categories": [
+            "online_spends"
+        ],
+        "eligibility": {
+            "min_income": 450000,
+            "credit_score": 750
+        },
+        "perks": [
+            "American Express Membership Rewards",
+            "SmartEarn accelerated rewards",
+            "Annual fee waiver on spending ₹90,000",
+            "Global acceptance",
+            "Purchase protection"
+        ],
+        "image_url": "https://cd9941cc.delivery.rocketcdn.me/wp-content/uploads/2021/07/American-Express-SmartEarn-Credit-Card.webp"
+    },
+    {
+        "name": "Citibank Rewards Credit Card",
+        "issuer": "Citibank",
+        "annual_fee": 1000,
+        "joining_fee": 1000,
+        "reward_type": "Reward Points",
+        "reward_rate": 2.0,
+        "reward_categories": [
+            "dining",
+            "entertainment"
+        ],
+        "eligibility": {
+            "min_income": 360000,
+            "credit_score": 750
+        },
+        "perks": [
+            "High rewards on dining and entertainment",
+            "PayAll facility for rent and fees",
+            "Annual fee waiver on spending ₹30,000",
+            "FlexiPay EMI options",
+            "24/7 customer service"
+        ],
+        "image_url": "https://thumbor.forbes.com/thumbor/fit-in/150x/https://www.forbes.com/advisor/wp-content/uploads/2024/04/408a78030eb279349e63b5da79941fe4.jpg"
+    },
+    {
+        "name": "RBL Bank World Safari Credit Card",
+        "issuer": "RBL Bank",
+        "annual_fee": 3000,
+        "joining_fee": 3000,
+        "reward_type": "Reward Points",
+        "reward_rate": 3.0,
+        "reward_categories": [
+            "travel",
+            "all_spends"
+        ],
+        "eligibility": {
+            "min_income": 720000,
+            "credit_score": 750
+        },
+        "perks": [
+            "Travel focused rewards program",
+            "Airport lounge access - 12 times per year",
+            "Travel insurance coverage",
+            "Golf privileges",
+            "Concierge services",
+            "Priority customer service"
+        ],
+        "image_url": "https://www.cardexpert.in/wp-content/uploads/2024/02/rbl-world-safari-credit-card.jpg"
+    },
+    {
+        "name": "HSBC Cashback Credit Card",
+        "issuer": "HSBC",
+        "annual_fee": 750,
+        "joining_fee": 750,
+        "reward_type": "Cashback",
+        "reward_rate": 1.5,
+        "reward_categories": [
+            "online_spends"
+        ],
+        "eligibility": {
+            "min_income": 600000,
+            "credit_score": 750
+        },
+        "perks": [
+            "Simple cashback structure",
+            "No cashback capping",
+            "Fuel surcharge waiver",
+            "Global acceptance",
+            "Zero liability on lost card"
+        ],
+        "image_url": "https://www.hsbc.ae/content/dam/hsbc/ae/images/credit-cards/12236-cashback-hex-grey-bg-1600x900.jpg"
+    },
+    {
+        "name": "Federal Bank Signet Credit Card",
+        "issuer": "Federal Bank",
+        "annual_fee": 750,
+        "joining_fee": 750,
+        "reward_type": "Reward Points",
+        "reward_rate": 2.0,
+        "reward_categories": [
+            "fuel",
+            "supermarkets"
+        ],
+        "eligibility": {
+            "min_income": 300000,
+            "credit_score": 700
+        },
+        "perks": [
+            "Enhanced rewards on fuel and grocery",
+            "Annual fee waiver on spending ₹60,000",
+            "Fuel surcharge waiver",
+            "Movie ticket offers",
+            "Easy EMI facility"
+        ],
+        "image_url": "https://cd9941cc.delivery.rocketcdn.me/wp-content/uploads/2022/02/Federal-Bank-RuPay-Signet-Credit-Card.webp"
+    },
+    {
+        "name": "BOB Financial Easy Credit Card",
+        "issuer": "Bank of Baroda",
+        "annual_fee": 500,
+        "joining_fee": 500,
+        "reward_type": "Cashback",
+        "reward_rate": 5.0,
+        "reward_categories": [
+            "fuel",
+            "grocery"
+        ],
+        "eligibility": {
+            "min_income": 200000,
+            "credit_score": 700
+        },
+        "perks": [
+            "High cashback on essential categories",
+            "Low annual fee",
+            "Fuel surcharge waiver",
+            "EMI conversion facility",
+            "Wide acceptance network"
+        ],
+        "image_url": "https://images.fintra.co.in/cms/bob-financial-easy.jpg"
+    },
+    {
+        "name": "AU Bank Zenith Credit Card",
+        "issuer": "AU Small Finance Bank",
+        "annual_fee": 1500,
+        "joining_fee": 1500,
+        "reward_type": "Reward Points",
+        "reward_rate": 3.0,
+        "reward_categories": [
+            "dining",
+            "fuel"
+        ],
+        "eligibility": {
+            "min_income": 400000,
+            "credit_score": 700
+        },
+        "perks": [
+            "High rewards on dining and fuel",
+            "Airport lounge access - 4 times per year",
+            "Annual fee waiver on spending ₹1.5 lakh",
+            "Movie ticket offers",
+            "Golf privileges"
+        ],
+        "image_url": "https://cd9941cc.delivery.rocketcdn.me/wp-content/uploads/2021/10/AU-Bank-Zenith-Credit-Card.webp"
+    },
+    {
+        "name": "IDBI Bank Select Credit Card",
+        "issuer": "IDBI Bank",
+        "annual_fee": 500,
+        "joining_fee": 500,
+        "reward_type": "Reward Points",
+        "reward_rate": 1.0,
+        "reward_categories": [
+            "all_spends"
+        ],
+        "eligibility": {
+            "min_income": 250000,
+            "credit_score": 700
+        },
+        "perks": [
+            "Milestone bonus rewards",
+            "Fuel surcharge waiver",
+            "Annual fee waiver on spending ₹50,000",
+            "Easy balance transfer",
+            "SMS alerts for transactions"
+        ],
+        "image_url": "https://cd9941cc.delivery.rocketcdn.me/wp-content/uploads/2021/08/IDBI-Winnings-RuPay-Select-Credit-Card.webp"
+    },
+    {
+        "name": "Punjab National Bank RuPay Select Credit Card",
+        "issuer": "Punjab National Bank",
+        "annual_fee": 500,
+        "joining_fee": 500,
+        "reward_type": "Reward Points",
+        "reward_rate": 1.0,
+        "reward_categories": [
+            "pnb_merchants"
+        ],
+        "eligibility": {
+            "min_income": 200000,
+            "credit_score": 700
+        },
+        "perks": [
+            "Enhanced rewards at PNB partner merchants",
+            "Fuel surcharge waiver",
+            "Low annual fee",
+            "Wide ATM network access",
+            "Easy branch banking integration"
+        ],
+        "image_url": "https://cd9941cc.delivery.rocketcdn.me/wp-content/uploads/2022/02/PNB-RuPay-Select-Patanjali-Credit-Card.webp"
+    },
+    {
+        "name": "Canara Bank Platinum Credit Card",
+        "issuer": "Canara Bank",
+        "annual_fee": 750,
+        "joining_fee": 750,
+        "reward_type": "Reward Points",
+        "reward_rate": 1.0,
+        "reward_categories": [
+            "fuel",
+            "utility"
+        ],
+        "eligibility": {
+            "min_income": 300000,
+            "credit_score": 700
+        },
+        "perks": [
+            "Enhanced rewards on fuel and utilities",
+            "Fuel surcharge waiver",
+            "Annual fee waiver on spending ₹60,000",
+            "Emergency card replacement",
+            "24/7 customer support"
+        ],
+        "image_url": "https://cd9941cc.delivery.rocketcdn.me/wp-content/uploads/2021/08/Canara-Bank-Rupay-Platinum-Credit-Card.webp"
+    }
+]
