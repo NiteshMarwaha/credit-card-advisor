@@ -21,7 +21,7 @@ OpenAI API key
 
 Streamlit
 
-## Installation
+# Installation
 ## Clone the repository:
 ``` bash
 git clone [repository-url]
@@ -51,7 +51,7 @@ OPENAI_API_KEY=your-api-key-here
 streamlit run app.py
 ```
 
-## System Architecture
+# System Architecture
 ## Components
 
 * Streamlit Frontend (app.py) - User interface for the application
@@ -98,7 +98,7 @@ Asks series of questions to gather:
 
 * Returns top 5 recommendations
 
-## Prompt Design
+# Prompt Design
 ## The agent uses a structured prompt template with:
 
 * System Message: Defines the agent's role as a credit card advisor
@@ -115,7 +115,7 @@ System: You are a helpful credit card advisor...
 Human: {current user input}
 ```
 
-## Data Normalization
+# Data Normalization
 ## The system normalizes user inputs for:
 
 * Spending Categories: Maps various terms to standardized categories
@@ -124,7 +124,7 @@ Human: {current user input}
 
 * Numerical Values: Converts income and credit scores to numbers
 
-## Customization
+# Customization
 ## To modify the system:
 
 * Add/Remove Questions: Edit the QUESTIONS list in app.py
