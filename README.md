@@ -1,6 +1,8 @@
 
 # Credit Card Advisor System - README
 
+[live web app for the creedit card advisor](https://credit-card-advisor-bmlbgrz6nfsfytvuo26bsq.streamlit.app/)
+
 ## Overview
 
 This system provides personalized credit card recommendations based on user's financial profile and spending habits. It combines conversational AI with a comprehensive credit card database to offer tailored suggestions.
@@ -9,8 +11,7 @@ This system provides personalized credit card recommendations based on user's fi
 
 ## Demo
 
-Insert gif or link to demo
-
+[Youtube Video for demo](https://youtu.be/bcP2NSg4Clk?feature=shared)
 
 ## Setup
 
